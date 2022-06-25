@@ -1,0 +1,2 @@
+INSERT INTO candidate (id, names, surnames, birthdate, proposal, politicalParty) VALUES (1,'Keiko', 'Fujimori', '01/01/1960', 'No mas corrupción', 'Fuerza Popular');
+INSERT INTO candidate (id, names, surnames, birthdate, proposal, politicalParty) VALUES (2,'Pedro', 'Castillo', '01/01/1970', 'No mas pobres en un país rico', 'Perú Libre');
